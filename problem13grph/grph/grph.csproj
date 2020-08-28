@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="p10CONS">
+      <HintPath>..\..\problem10CONS\p10CONS\bin\Debug\netstandard2.0\p10CONS.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
